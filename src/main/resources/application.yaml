@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: iotdashboard
+vaadin:
+  launch-browser: true
